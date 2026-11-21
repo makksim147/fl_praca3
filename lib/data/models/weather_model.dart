@@ -1,4 +1,3 @@
-
 class WeatherModel {
   final String city;
   final double temperature;
